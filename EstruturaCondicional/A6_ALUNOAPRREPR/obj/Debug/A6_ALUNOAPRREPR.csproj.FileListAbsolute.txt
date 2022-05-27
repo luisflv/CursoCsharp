@@ -1,0 +1,7 @@
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A6_ALUNOAPRREPR\bin\Debug\A6_ALUNOAPRREPR.exe.config
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A6_ALUNOAPRREPR\bin\Debug\A6_ALUNOAPRREPR.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A6_ALUNOAPRREPR\bin\Debug\A6_ALUNOAPRREPR.pdb
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A6_ALUNOAPRREPR\obj\Debug\A6_ALUNOAPRREPR.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A6_ALUNOAPRREPR\obj\Debug\A6_ALUNOAPRREPR.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A6_ALUNOAPRREPR\obj\Debug\A6_ALUNOAPRREPR.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A6_ALUNOAPRREPR\obj\Debug\A6_ALUNOAPRREPR.pdb

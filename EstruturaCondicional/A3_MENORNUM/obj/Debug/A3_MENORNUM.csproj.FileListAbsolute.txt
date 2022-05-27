@@ -1,0 +1,8 @@
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A3_MENORNUM\bin\Debug\A3_MENORNUM.exe.config
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A3_MENORNUM\bin\Debug\A3_MENORNUM.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A3_MENORNUM\bin\Debug\A3_MENORNUM.pdb
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A3_MENORNUM\obj\Debug\A3_MENORNUM.csproj.AssemblyReference.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A3_MENORNUM\obj\Debug\A3_MENORNUM.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A3_MENORNUM\obj\Debug\A3_MENORNUM.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A3_MENORNUM\obj\Debug\A3_MENORNUM.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A3_MENORNUM\obj\Debug\A3_MENORNUM.pdb

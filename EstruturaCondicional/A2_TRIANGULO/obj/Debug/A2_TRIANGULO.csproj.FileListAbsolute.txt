@@ -1,0 +1,7 @@
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A2_TRIANGULO\bin\Debug\A2_TRIANGULO.exe.config
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A2_TRIANGULO\bin\Debug\A2_TRIANGULO.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A2_TRIANGULO\bin\Debug\A2_TRIANGULO.pdb
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A2_TRIANGULO\obj\Debug\A2_TRIANGULO.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A2_TRIANGULO\obj\Debug\A2_TRIANGULO.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A2_TRIANGULO\obj\Debug\A2_TRIANGULO.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A2_TRIANGULO\obj\Debug\A2_TRIANGULO.pdb

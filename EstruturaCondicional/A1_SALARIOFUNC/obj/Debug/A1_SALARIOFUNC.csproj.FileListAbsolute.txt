@@ -1,0 +1,8 @@
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A1_SALARIOFUNC\bin\Debug\A1_SALARIOFUNC.exe.config
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A1_SALARIOFUNC\bin\Debug\A1_SALARIOFUNC.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A1_SALARIOFUNC\bin\Debug\A1_SALARIOFUNC.pdb
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A1_SALARIOFUNC\obj\Debug\A1_SALARIOFUNC.csproj.AssemblyReference.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A1_SALARIOFUNC\obj\Debug\A1_SALARIOFUNC.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A1_SALARIOFUNC\obj\Debug\A1_SALARIOFUNC.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A1_SALARIOFUNC\obj\Debug\A1_SALARIOFUNC.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A1_SALARIOFUNC\obj\Debug\A1_SALARIOFUNC.pdb

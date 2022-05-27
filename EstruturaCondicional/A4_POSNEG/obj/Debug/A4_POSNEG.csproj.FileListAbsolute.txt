@@ -1,0 +1,7 @@
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A4_POSNEG\bin\Debug\A4_POSNEG.exe.config
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A4_POSNEG\bin\Debug\A4_POSNEG.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A4_POSNEG\bin\Debug\A4_POSNEG.pdb
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A4_POSNEG\obj\Debug\A4_POSNEG.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A4_POSNEG\obj\Debug\A4_POSNEG.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A4_POSNEG\obj\Debug\A4_POSNEG.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A4_POSNEG\obj\Debug\A4_POSNEG.pdb

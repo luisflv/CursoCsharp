@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c7eda28-9d50-451f-a8ba-2b5fc9bffd92": {
+      "ProjectGuid": "1c7eda28-9d50-451f-a8ba-2b5fc9bffd92",
+      "DisplayName": "A1_SALARIOFUNC",
+      "ColorIndex": 0
+    },
+    "e7789261-2fe4-4d96-85b7-ebf320e6dde1": {
+      "ProjectGuid": "e7789261-2fe4-4d96-85b7-ebf320e6dde1",
+      "DisplayName": "A2_TRIANGULO",
+      "ColorIndex": 1
+    },
+    "dceec6b7-290c-43d1-81a2-bf046e93606a": {
+      "ProjectGuid": "dceec6b7-290c-43d1-81a2-bf046e93606a",
+      "DisplayName": "A3_MENORNUM",
+      "ColorIndex": 2
+    },
+    "a354efa3-dc7d-497b-ac03-1ebe10962103": {
+      "ProjectGuid": "a354efa3-dc7d-497b-ac03-1ebe10962103",
+      "DisplayName": "A4_POSNEG",
+      "ColorIndex": 3
+    },
+    "5e3f4a3e-2daf-474b-9a05-53d203b5da24": {
+      "ProjectGuid": "5e3f4a3e-2daf-474b-9a05-53d203b5da24",
+      "DisplayName": "A5_SALARIOVEND",
+      "ColorIndex": 4
+    },
+    "173aa835-26a3-44a3-8ffa-31cf5af2756b": {
+      "ProjectGuid": "173aa835-26a3-44a3-8ffa-31cf5af2756b",
+      "DisplayName": "A6_ALUNOAPRREPR",
+      "ColorIndex": 5
+    },
+    "0569a296-0e91-448c-99d2-462d2079d711": {
+      "ProjectGuid": "0569a296-0e91-448c-99d2-462d2079d711",
+      "DisplayName": "A7_PESOIDEAL",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

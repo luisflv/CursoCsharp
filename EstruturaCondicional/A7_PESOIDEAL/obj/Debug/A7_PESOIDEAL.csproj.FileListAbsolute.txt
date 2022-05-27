@@ -1,0 +1,8 @@
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A7_PESOIDEAL\bin\Debug\A7_PESOIDEAL.exe.config
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A7_PESOIDEAL\bin\Debug\A7_PESOIDEAL.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A7_PESOIDEAL\bin\Debug\A7_PESOIDEAL.pdb
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A7_PESOIDEAL\obj\Debug\A7_PESOIDEAL.csproj.AssemblyReference.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A7_PESOIDEAL\obj\Debug\A7_PESOIDEAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A7_PESOIDEAL\obj\Debug\A7_PESOIDEAL.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A7_PESOIDEAL\obj\Debug\A7_PESOIDEAL.exe
+C:\Users\luis_\Source\Repos\CursoCSharp\EstruturaCondicional\A7_PESOIDEAL\obj\Debug\A7_PESOIDEAL.pdb
